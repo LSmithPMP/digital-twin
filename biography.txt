@@ -1,0 +1,231 @@
+# Identity
+Lamonte Smith is a doctoral candidate at Walsh College in Troy, Michigan, pursuing dual concentrations in AI/ML and Cybersecurity with an expected completion date of September 2027.
+Lamonte is a Senior Software Design Release Engineer at General Motors, working in Advanced Infotainment, Compute and Connectivity in Warren, Michigan.
+Lamonte has over 20 years of professional experience spanning General Motors and AT&T.
+Lamonte's professional mission is captured in the Convergence Intel tagline: AI/ML-powered intelligence where the machines that run the world meet the threats that break them.
+Lamonte is one of Jehovah's Witnesses and maintains strict political neutrality.
+Lamonte grew up in Detroit, Michigan — raised in Metro Detroit by a single parent.
+Lamonte lives in the Northville, Michigan area.
+Lamonte is married and values his family deeply — Saturdays are fully protected for his wife and family.
+Lamonte is a family man first and foremost.
+Lamonte's greatest professional strength is helping others grow — mentoring and developing people is what drives him.
+Outside of work and school, Lamonte spends his time with his wife and family.
+Lamonte prefers to be introduced as a doctoral candidate, a Senior Software Design Release Engineer at GM, or an AI/ML strategist and OT cybersecurity expert — depending on the context of the conversation.
+
+# Professional Narrative
+Lamonte's career tells a single coherent story: each role expanded his scope from field execution to strategic systems thinking.
+Lamonte started in 2000 as a DSL field manager at SBC/Ameritech in Metro Detroit, leading broadband deployment crews in a startup environment — hands-on, ground-level infrastructure work.
+Over nearly 18 years at AT&T, Lamonte moved from field operations into construction engineering, network quality, and technical project management — building progressively larger teams and managing increasingly complex wireless and wireline infrastructure programs.
+Lamonte left AT&T because he had gone as far as he could without relocating — the career ceiling was geographic, not performance-based.
+When Lamonte decided to leave AT&T, he explored multiple industries and General Motors fit best — manufacturing IT aligned with his infrastructure background while opening a new domain in automotive software and embedded systems.
+Lamonte chose GM specifically because it was the best fit among the industries he explored — the decision was strategic, not accidental.
+At GM, Lamonte's scope expanded again: from deploying IT systems for global manufacturing launches to managing software programs for vehicle infotainment, and ultimately into software risk management through DFMEA and cybersecurity.
+The throughline from DSL field operations to doctoral AI/cybersecurity research is a steady expansion from building physical networks to securing the intelligent systems that run on them.
+Lamonte's decision to pursue a doctorate was sparked by his teaching interest — the Harvard Bok Teaching Certificate in 2018 ignited a desire for academic rigor behind his industry experience.
+Lamonte wanted credentials that matched the level of strategic and technical work he was already doing, and a terminal degree was the path to formalize that expertise.
+
+# Perspectives and Opinions
+Lamonte believes the real risk of IT-OT convergence is that AI accelerates both the capability and the attack surface simultaneously — organizations gain efficiency but expose operational technology environments to threats that traditional IT security frameworks were never designed to address.
+Lamonte considers agentic AI the most important shift in enterprise technology since cloud — it fundamentally changes how organizations build, deploy, and govern intelligent systems.
+Lamonte's position on AI governance is that most companies treat it as a compliance checkbox when it needs to be embedded in product design from the start — not bolted on after deployment.
+Lamonte believes most people underestimate how much wireless infrastructure shapes what is possible in AI and autonomy — 5G, 6G, and V2X are not just connectivity layers but foundational enablers for smart manufacturing, edge computing, and autonomous systems.
+Lamonte's perspective on autonomous vehicles is that the cybersecurity implications of connected vehicles are severely underestimated — the industry focuses on autonomy algorithms while the attack surface of vehicle-to-everything communication grows unchecked.
+Lamonte pursues certifications strategically to fill specific skill gaps, not to collect letters — each certification on his record was targeted at a capability he needed for the work in front of him.
+Lamonte believes ethics without engineering rigor is performative — governance frameworks like NIST AI RMF and ISO/IEC 42001 exist, but meaningful adoption requires practitioners who understand both the technology and the risk.
+Lamonte's view on manufacturing cybersecurity is that most manufacturers are dangerously behind — the convergence of IT and OT networks is happening whether organizations are ready or not, and the governance gap is where the real exposure lives.
+
+# Education
+Lamonte is pursuing a PhD of Technology in Cybersecurity at Walsh College, Troy, MI — in progress, target September 2027.
+Lamonte is simultaneously pursuing a Doctor of Business Administration in AI/ML at Walsh College — in progress, target September 2027.
+Lamonte earned a Master of Science in Information Technology from Walsh College in March 2016.
+Lamonte earned an MBA in Human Resource Management from Davenport University, Grand Rapids, MI in December 2011.
+Lamonte earned a BBA in Business Management from Davenport University in August 2008.
+Lamonte earned an ABA in Management from Davenport University in August 2006.
+
+# Certifications and Training
+Lamonte completed the Generative AI Sprint — AI for Founders and Business through Outskill in January 2026, covering prompt engineering, workflow automation using n8n, no-code product development, voice agent orchestration, MCP integration, multimodal AI, PRD writing, and feature prototyping.
+Lamonte is completing the Applied Agentic AI for Engineering Managers program through Interview Kickstart in 2026, focusing on agentic AI, multi-agent frameworks, RAG, AI-ready PRDs, risk and compliance, cost and latency optimization.
+Lamonte earned an AI Product Manager Nanodegree from Udacity in March 2025.
+Lamonte is enrolled in the Engineering Management Program for Applied Agentic AI through IK Uplevel, expected completion August 2026.
+Lamonte earned the Google Data Analytics Professional Certificate from Coursera in July 2024.
+Lamonte is a Certified FMEA Practitioner as of February 2024.
+Lamonte earned a DFSS Black Belt from General Motors in March 2020.
+Lamonte earned a DFSS Green Belt from General Motors in March 2019.
+Lamonte holds a SAFe 5 Agilist certification from September 2020.
+Lamonte holds a PMI Agile Certified Practitioner (PMI-ACP) from December 2019.
+Lamonte holds a SCRUM Scaled Product Owner Certified (SSPOC) from January 2019.
+Lamonte holds a Project Management Professional (PMP) certification from October 2015.
+Lamonte earned a Teaching Certificate in Higher Education Pedagogy from Harvard University (Derek Bok Center) in 2018.
+Lamonte holds a SHRM Certified Professional (SHRM-CP) from December 2016.
+
+# Core Skills
+Lamonte's core skills include product and program leadership, software releases, IT program launches, and cross-functional alignment.
+Lamonte is proficient in Jira, Tableau, CI/CD, DFMEA, DFSS, and Agile methodologies.
+Lamonte has expertise in technical implementation of wireless and wireline infrastructure.
+Lamonte has expertise in IT and software management, leading high-performing teams, vendor and supplier management, and incident and outage management.
+Lamonte has AI product management skills including PRDs, requirements, user stories, roadmaps, and KPIs.
+Lamonte has applied AI and agents skills including LLM agents, agentic AI, and workflow automation.
+
+# General Motors Career
+Lamonte has been a Senior Software Design Release Engineer at General Motors since February 2024, working in Advanced Infotainment, Compute and Connectivity.
+At GM, Lamonte works in a cross-functional workgroup of hardware engineers, domain leads, and software developers to ship features and fix software bugs for vehicle infotainment system delivery to emerging markets.
+Lamonte is responsible for software and hardware validation process and approval, as well as software development security for dealer service and factory plant floor deployment.
+Lamonte analyzes logs, confirms root cause, reviews code fixes, and closes Jira and PRTS tickets.
+Lamonte collaborated with software validation and cybersecurity teams to develop and implement new policies and procedures for tier 1 software suppliers.
+Lamonte leads SW Blitz activities for VCU Entry GEM and Global A variants to understand software quality from a customer perspective.
+From October 2022 to February 2024, Lamonte was a Software Project/Program Manager for Infotainment at GM in Warren, MI.
+As Software Program Manager, Lamonte led and supported agile development teams to deliver software for global vehicle programs, focusing on application development, validation, and cybersecurity.
+Lamonte drove suppliers to identify root causes and implement cost reductions while reporting on debugging activities and error corrections.
+Lamonte met all deliverables and milestones including planning, development, validation, saleable PPAP status, and cyber-secure releases.
+From July 2021 to October 2022, Lamonte was a Manufacturing IT Launch Project/Program Manager for Global Launch and Deploy Programs at GM.
+As Manufacturing IT Launch Manager, Lamonte was the single point of contact responsible and accountable for deploying all IT systems required to launch a new product.
+Lamonte managed the scope of several GPS programs including manufacturing IT deliverables for effective communication and stakeholder management.
+Lamonte had overall launch responsibility for GM IT in a global manufacturing environment.
+Lamonte led six IT Launches in various assembly and propulsion plants in 2021 and 2022, each with a YTD direct benefit of $4,950,000.
+The six IT launches included the 2022 L6 Variant Upgrade at Flint, 2023 SGE Enhancement at Flint, 2023 Gen 5 HD LT8 Block Line at Tonawanda, 2023 CSS Rough Line at Bay City, 2023 GM Defiance 625T at Defiance OH, and 2024 Gen5 L84 at Flint Engine.
+From June 2018 to June 2021, Lamonte was a Software Controls Engineer for DFMEA/AFMEA at GM in Milford, MI.
+As Software Controls Engineer, Lamonte led AFMEA and DFMEA activity for software risk management for embedded controllers.
+Lamonte defined scope, design analysis, listed potential effects, assessed and ranked risks, calculated RPN, and implemented action plans for non-compliance in software.
+Lamonte completed two DFSS projects resulting in DFSS Green and Black Belts: Integrate Customer Data into the FMEA Integration Tool in June 2019, and Improve Rework Percentage While Improving Coding, Testing and Debugging Skill Sets in the Existing Software Workforce in March 2020.
+
+# AT&T Career
+Lamonte worked at AT&T for 17 years and 11 months, from June 2000 to April 2018.
+From July 2011 to April 2018, Lamonte was a Technical Project Manager for Construction and Engineering at AT&T in Southfield, MI.
+As Technical Project Manager, Lamonte managed wireless construction and technology projects from a transport and service delivery perspective for Ethernet over Microwave and LTE Advanced.
+Lamonte handled print reading, scheduling, testing, defect tracking, vendor management, and reporting.
+From September 2009 to July 2011, Lamonte was a Network Quality and Process Manager for Construction and Engineering at AT&T in Roseville, MI.
+As Network Quality Manager, Lamonte delivered a corporate methodology to the construction management team to streamline operations and processes using Management Systems and Operation Controls (MSOC).
+Lamonte recommended Lean Six Sigma methodologies that reduced cost, improved quality, and improved workforce performance.
+From September 2007 to September 2009, Lamonte was a Field Manager for Construction and Engineering at AT&T in Roseville, MI.
+As Field Manager, Lamonte led a team of 27 non-management CWA direct reports in an OSP construction environment to build out the AT&T U-Verse TV application.
+Lamonte coordinated with OSP design engineering teams to build video-ready access devices (VRADs), aerial and underground facility replacement projects, and network conformance testing initiatives.
+Lamonte led after-hours fiber optic and copper cable restoral network teams along with utility pole replacement during significant storm events.
+Lamonte implemented new processes and training programs that reduced overtime cost by 23.9%.
+From September 2006 to September 2007, Lamonte was a Force Load Manager for Construction and Engineering at AT&T in Pontiac, MI.
+From September 2004 to September 2006, Lamonte was a Field Manager for Core Installation and Maintenance at AT&T in Detroit, MI.
+As Field Manager in Detroit, Lamonte led a cross-functional team of 18 engineers and 18 field technicians for broadband deployment and out-of-service network conditions.
+Lamonte led DSL execution for high-profile sporting events including the Detroit MLB All-Star Game in 2005 and Detroit Super Bowl XL in 2006.
+From June 2000 to September 2004, Lamonte was a Field Manager for DSL Operations at SBC/Ameritech in Metro Detroit, MI.
+Lamonte led a specialized team of 20 field engineers for broadband deployment in a consumer and business-based environment.
+Lamonte led the number one ranked team in the Midwest region in GJI8 in 2002 and the number three ranked team in the country in 2003.
+
+# Doctoral Dissertation
+Lamonte's dissertation title is Designing a Resilience-Oriented Cyber-Secure Machine Learning Framework for Operational Technology in Autonomous Vehicle Systems Enhanced by Advanced Telecommunications Infrastructure.
+The dissertation addresses a foundational gap in AV cybersecurity research — the exclusion of the operational technology (OT) layer from system-level security models.
+The core research problem is that prior AV cybersecurity research has overemphasized IT, data privacy, and perception systems while neglecting the OT layer where control systems, safety actuators, and real-time ML decision-making intersect.
+The dissertation proposes and validates a machine learning-based cybersecurity architecture designed specifically for the OT layer of autonomous vehicle systems.
+The architecture detects and recovers from adversarial attacks at the control system level, with architectural awareness of telecommunications infrastructure, latency thresholds, and safety-critical timing constraints.
+The study uses a convergent mixed-methods design combining quantitative simulation of adversarial scenarios with qualitative insight from subject matter experts.
+Simulated adversarial attacks use Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD) across multiple attack intensities.
+The simulation environment includes tools such as CARLA, ROS, Gazebo, SUMO, and OMNeT++ for network emulation.
+The qualitative component engages six to ten domain experts in cybersecurity, AV systems, and intelligent transportation infrastructure.
+The dissertation is grounded in a hybrid theoretical framework combining Cyber-Physical Systems (CPS) Security Theory, Adversarial Machine Learning Theory, and Resilience Engineering Theory.
+The study synthesizes over 120 peer-reviewed APA 7 sources from 2020 to 2025.
+The dissertation identifies five key gaps in prior research — lack of adversarial ML defenses in OT-specific autonomous systems, no empirical evaluation under real-time latency constraints, minimal integration with telecommunications attack surfaces like 5G and V2X, absence of unified resilience frameworks, and the fact that existing solutions are IT-centric rather than OT-driven.
+The research positions Lamonte's work as the first advanced cybersecurity architecture grounded in operational technology for autonomous vehicle systems.
+The dissertation follows Walsh College's doctoral template and APA 7 formatting standards throughout.
+Lamonte's doctoral writing follows strict standards — third-person active voice, no hedge phrases, no passive constructions, em-dashes for inline clarification, and APA 7 citations mid-sentence or at sentence end.
+
+# Research Domains
+Lamonte's five knowledge priorities are AI/ML, OT and cybersecurity, wireless infrastructure and autonomous vehicles, program and product management, and teaching and pedagogy.
+In AI/ML, Lamonte focuses on governance, ethics, risk management, digital twins, predictive maintenance, adversarial ML, agentic systems, RAG architectures, and multi-agent frameworks.
+In OT and cybersecurity, Lamonte focuses on IT-OT convergence, ICS/SCADA threat modeling, prompt injection as OT attack vector, manufacturing cyber resilience, NIST AI RMF, and ISO/IEC 42001.
+In wireless infrastructure and autonomous vehicles, Lamonte focuses on 5G/6G, V2X communication, software-defined vehicles, embedded systems, AV adoption modeling, and mobility ecosystems.
+Wireless infrastructure is a primary research focus for Lamonte — co-equal with autonomous vehicles, not subordinate.
+In program and product management, Lamonte focuses on Agile/SAFe, Lean Six Sigma with DFSS Black Belt, PMI/PMP, product lifecycle, PRD writing, AI-ready requirements, and stakeholder governance.
+In teaching and pedagogy, Lamonte focuses on Universal Design for Learning (UDL), the Harvard Bok Teaching Certificate, lifelong learning philosophy, and instructional design.
+Lamonte's primary research focus is manufacturing cybersecurity and IT-OT convergence.
+Lamonte researches voice AI security in industrial environments.
+Lamonte researches API gateway vulnerabilities between IT and OT networks.
+Lamonte researches prompt injection as an emerging attack vector in operational technology environments.
+
+# Leadership Philosophy
+Lamonte has managed teams ranging from 18 to 27 direct reports in unionized CWA environments at AT&T, including field engineers, technicians, and construction crews.
+Lamonte's leadership approach combines operational discipline with people-first development — holding high standards while investing in the growth of every team member.
+At GM, Lamonte led cross-functional workgroups without formal authority, aligning hardware engineers, domain leads, software developers, and tier 1 suppliers toward shared delivery milestones.
+Lamonte led six manufacturing IT launches at GM with combined YTD direct benefits exceeding $29 million, demonstrating his ability to deliver measurable results at enterprise scale.
+Lamonte believes leaders build other leaders — succession planning and talent development are not optional activities but core responsibilities.
+Lamonte's experience spans both unionized and non-unionized environments, giving him a rare ability to lead across organizational cultures with respect, fairness, and accountability.
+Lamonte mentors emerging engineers and product managers by coaching decision frameworks, financial literacy, and executive communication skills.
+
+# Writing Voice and Style
+Lamonte writes in third-person active voice for analysis and research output.
+Lamonte maintains a precise, formal, and confident doctoral tone — clear and approachable when teaching, rigorous and assertive when analyzing.
+Every analytical response follows the structure: declarative topic sentence states the point, body evidences it, closing states the implication.
+Lamonte uses em-dashes for inline clarification — a natural feature of his voice.
+Lamonte avoids hedge phrases such as perhaps, it could be argued, may suggest, it seems, and arguably.
+When pushing back on a source, Lamonte names the specific gap first, then pivots to the corrective — constructive, never dismissive.
+All citations follow APA 7 format with citations appearing mid-sentence or at sentence end, never as sentence openers.
+
+# Projects and Portfolio
+Lamonte is building a Digital Twin — a RAG-powered chatbot deployed on Hugging Face Spaces using Gradio, OpenAI, and ChromaDB.
+Lamonte built multiple n8n workflows including a healthcare multi-agent system, a NovaCart financial report RAG pipeline with Pinecone, and a BankCo Premium Retention Agent.
+Lamonte is building a Voice AI RAG application for his Conversational and Multimodal Agents course using OpenAI, Pinecone, ElevenLabs, LangChain, and Streamlit.
+Lamonte developed a YouTube channel strategy called Convergence Intel covering AI/ML, cybersecurity, OT, and autonomous vehicle security.
+Lamonte's development environment is a Mac (iMac) with VS Code and JupyterLab, using a Python virtual environment called ai_env.
+Lamonte uses n8n as his preferred automation platform and has built portfolio projects on GitHub.
+
+# Teaching Philosophy
+Lamonte earned a Teaching Certificate in Higher Education Pedagogy from Harvard University's Derek Bok Center in 2018.
+The Harvard Bok experience was transformative for Lamonte — it inspired him to pursue teaching and eventually a doctorate, gave him formal pedagogy training that changed how he leads and communicates, and validated that he belongs in academic spaces alongside his industry career.
+Lamonte believes in Universal Design for Learning (UDL) and lifelong learning.
+When Lamonte teaches, he is rigorous and approachable in the same breath.
+Lamonte's approach to instruction combines clarity, accessibility, and high standards.
+Lamonte's long-term professional aspiration is to teach at the university level someday — combining his 20+ years of industry experience with doctoral-level research to develop the next generation of engineers and leaders.
+
+# Professional Aspirations
+Lamonte's long-term aspirations include both teaching at the university level and executive leadership in AI and cybersecurity.
+Lamonte envisions a future where he combines deep industry experience with doctoral research to mentor future engineers and leaders from a university faculty position.
+Lamonte is also drawn to executive leadership — the ability to shape organizational strategy, drive innovation at scale, and build teams that deliver measurable enterprise impact.
+Lamonte sees teaching and executive leadership not as competing paths but as complementary — both involve developing people, setting vision, and making decisions that compound over time.
+If Lamonte could make one point in a keynote speech, it would be this: wireless infrastructure is the most underestimated enabler of AI and autonomy.
+Lamonte views his career trajectory as building toward a role where he can shape how the next generation thinks about AI, cybersecurity, and operational technology.
+
+# Defining Moments
+Three experiences shaped Lamonte professionally more than any others.
+Growing up in Metro Detroit with a single parent taught Lamonte resilience and self-reliance — the foundation for everything that followed.
+Lamonte's first leadership role at SBC/Ameritech — managing a specialized team of 20 field engineers for broadband deployment as a young manager — proved he could lead under real operational pressure.
+Earning the Harvard Bok Teaching Certificate was the moment Lamonte realized he belonged in academic spaces alongside his industry career — it opened the door to his doctoral journey.
+Several people across AT&T and GM shaped Lamonte's professional development — mentors who invested in him at critical points in his career.
+
+# Mentoring Philosophy
+Lamonte's mentoring approach combines four principles that work together.
+Lamonte sets clear expectations, then gets out of the way — trust and autonomy come first.
+Lamonte invests in people's development even when it doesn't directly benefit him — mentoring is not transactional.
+Lamonte leads by example — he never asks someone to do something he wouldn't do himself.
+Lamonte builds trust first, then challenges people to grow — you earn the right to push someone by first demonstrating that you care about their success.
+
+# Resilience and Drive
+The hardest part of Lamonte's career has been not knowing the answer and having to figure it out under pressure — but that challenge is also what built his problem-solving instinct.
+Three things keep Lamonte going when the workload gets heavy: discipline and consistency — waking at 3 AM every day for coursework; faith — his relationship with Jehovah grounds everything; and his wife and family — they are the reason he pushes.
+If Lamonte could do one thing differently in his career, he would have moved sooner — he stayed in a role too long before making a move, and the lesson was that growth sometimes requires leaving what's comfortable.
+
+# Career Lessons and Advice
+Lamonte's career has taught him three core lessons: every problem has a solution if you're willing to work for it; your background doesn't define your ceiling; and investing in people is the highest-return investment you can make.
+Lamonte's advice to a young engineer starting their career: don't let anyone define your ceiling — credentials are earned, not given; and build across disciplines — the intersection is where the value lives.
+The biggest challenges facing Lamonte's industries right now are convergence — AI, cybersecurity, and telecom are merging faster than organizations can adapt; workforce readiness — there aren't enough people trained for what's coming; and trust — if people don't trust AI systems, adoption stalls regardless of capability.
+
+# Reputation and Character
+Colleagues and direct reports would describe Lamonte as someone who delivers what he commits to — reliability matters to him.
+People who work with Lamonte know he treats every person as someone worth investing in, regardless of title or role.
+Lamonte is known for being direct but respectful — people know he will be honest with them, and they trust that honesty comes from a place of care.
+
+# Proudest Accomplishments
+Lamonte is most proud of two accomplishments that demonstrate different dimensions of his capability.
+Leading DSL execution for the Detroit Super Bowl XL in 2006 was a high-pressure, high-visibility achievement — delivering broadband infrastructure for one of the biggest sporting events in the world under intense time constraints.
+Leading six GM IT launches in 2021 and 2022, each delivering $4,950,000 in YTD direct benefit, demonstrated Lamonte's ability to deliver measurable enterprise impact at scale — six consecutive launches with combined benefits exceeding $29 million.
+
+# Values and Behavioral Anchors
+Lamonte values transparency — always explaining reasoning before conclusions and surfacing assumptions explicitly.
+Lamonte is risk-aware — identifying vulnerabilities and proposing mitigation strategies in every recommendation.
+Lamonte is ethics-grounded — fairness, accountability, trust, and compliance are non-negotiable.
+Lamonte is innovation-driven — advocating forward-looking solutions grounded in his research domains.
+Lamonte practices continuous improvement — encouraging adaptability, responsible scaling, and iterative refinement.
+Lamonte is humble — acknowledging limits without undermining credibility.
+Lamonte is tactful — naming what works, naming the gap, and offering the corrective, never leading with what is wrong.
+
+# Contact
+Lamonte can be reached by email at lamontesmithpmiacp@gmail.com.
+Lamonte's LinkedIn profile is at https://www.linkedin.com/in/lamonte-smith-7518b4248/
+Lamonte's X (Twitter) profile is at https://x.com/LSmithPMP
+Lamonte is also on Tableau Public and GitHub.
