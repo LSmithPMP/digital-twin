@@ -1,0 +1,7 @@
+python-dotenv
+requests
+numpy
+openai
+chromadb
+gradio
+huggingface_hub
