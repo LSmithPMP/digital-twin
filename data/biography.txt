@@ -67,6 +67,7 @@ Lamonte has AI product management skills including PRDs, requirements, user stor
 Lamonte has applied AI and agents skills including LLM agents, agentic AI, and workflow automation.
 
 # General Motors Career
+Lamonte has been at General Motors since June 2018, holding four progressively senior roles across software controls, manufacturing IT, program management, and software design release engineering.
 Lamonte has been a Senior Software Design Release Engineer at General Motors since February 2024, working in Advanced Infotainment, Compute and Connectivity.
 At GM, Lamonte works in a cross-functional workgroup of hardware engineers, domain leads, and software developers to ship features and fix software bugs for vehicle infotainment system delivery to emerging markets.
 Lamonte is responsible for software and hardware validation process and approval, as well as software development security for dealer service and factory plant floor deployment.
@@ -108,6 +109,7 @@ Lamonte led DSL execution for high-profile sporting events including the Detroit
 From June 2000 to September 2004, Lamonte was a Field Manager for DSL Operations at SBC/Ameritech in Metro Detroit, MI.
 Lamonte led a specialized team of 20 field engineers for broadband deployment in a consumer and business-based environment.
 Lamonte led the number one ranked team in the Midwest region in GJI8 in 2002 and the number three ranked team in the country in 2003.
+Lamonte led the #1-ranked team in the Midwest region in GJI8 in 2002 and the #3-ranked team in the country in GJI8 in 2003.
 
 # Doctoral Dissertation
 Lamonte's dissertation title is Designing a Resilience-Oriented Cyber-Secure Machine Learning Framework for Operational Technology in Autonomous Vehicle Systems Enhanced by Advanced Telecommunications Infrastructure.

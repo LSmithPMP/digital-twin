@@ -37,6 +37,7 @@ if on_hf_spaces:
         repo_id=config.HUGGINGFACE_DATASET_REPO,
         repo_type='dataset',
         local_dir=config.CHROMA_PATH.name,
+        token=os.environ.get('HF_TOKEN'),
     )
 else:
     from dotenv import load_dotenv
@@ -162,9 +163,9 @@ _favicon_path = config.BASE_DIR / 'assets' / 'favicon.ico'
 
 chatbot = gr.Chatbot(
     [greeting],
+    type='messages',
     show_label=False,
     avatar_images=(None, str(_avatar_path) if _avatar_path.exists() else None),
-    buttons=[],
     scale=1,
 )
 
@@ -177,8 +178,6 @@ demo = gr.ChatInterface(
     additional_outputs=[api_messages],
     additional_inputs_accordion=gr.Accordion(visible=False),
     title='Virtual Lamonte',
-    api_visibility="private",
-    analytics_enabled=False,
     fill_height=True,
     fill_width=False,
 )
@@ -195,11 +194,4 @@ custom_css = (
 )
 
 if __name__ == "__main__":
-    launch_kwargs = {
-        "footer_links": ['settings'],
-        "theme": "origin",
-        "css": custom_css,
-    }
-    if _favicon_path.exists():
-        launch_kwargs["favicon_path"] = str(_favicon_path)
-    demo.launch(**launch_kwargs)
+    demo.launch()
