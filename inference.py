@@ -145,7 +145,6 @@ def stream_turn(
                 model=config.INFERENCE_MODEL,
                 input=api_messages,
                 tools=tools,
-                reasoning={'effort': 'medium', 'summary': 'concise'},
                 stream=True,
             )
         except APIError as e:

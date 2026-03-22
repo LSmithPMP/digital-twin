@@ -151,9 +151,10 @@ def gradio_input_callback(user_input: str,
 ### Gradio UI
 
 greeting: gr.MessageDict = {
-    "role": "assistant", "content": "Hey there! \U0001f44b I'm Virtual Lamonte. Ask me about my research, "
-    "my work at GM, my doctoral journey, or anything about AI, cybersecurity, and autonomous "
-    "vehicles. How can I help?"
+    "role": "assistant", "content": "Hey there! \U0001f44b I'm Virtual Lamonte. "
+    "Ask me about my AI/ML research, my work at AT&T or GM, my doctoral journey at Walsh College, "
+    "or anything about Agentic AI, cybersecurity, wireless infrastructure, or autonomous vehicles. "
+    "How can I help?"
 }
 
 _avatar_path = config.BASE_DIR / 'assets' / 'avatar.png'
